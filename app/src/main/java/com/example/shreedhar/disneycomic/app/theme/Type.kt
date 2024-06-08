@@ -1,4 +1,4 @@
-package com.example.shreedhar.disneycomic.ui.theme
+package com.example.shreedhar.disneycomic.app.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

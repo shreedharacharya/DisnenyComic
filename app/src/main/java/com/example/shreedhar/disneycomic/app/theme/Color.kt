@@ -1,4 +1,4 @@
-package com.example.shreedhar.disneycomic.ui.theme
+package com.example.shreedhar.disneycomic.app.theme
 
 import androidx.compose.ui.graphics.Color
 
