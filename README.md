@@ -3,7 +3,7 @@ A sample comic app illustrating Android development best practices.
 
 ### Implementation details
 - Designed Comic Details Screen using Jetpack Compose. 
-- Utilized MVVI design pattern with Retrofit, Coroutines, Flow, and Hilt.
+- Utilized MVI design pattern with Retrofit, Coroutines, Flow, and Hilt.
 - Implemented unit tests, UI tests and used MockServer to test REST API.
 
 ### API Key
