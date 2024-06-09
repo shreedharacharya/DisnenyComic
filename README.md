@@ -21,8 +21,10 @@ Developer keys required to make the network Api call should be provided in `~/.g
 - Truth
 - Compose UI testing
 
+## Demo Video
+https://github.com/shreedharacharya/DisneyComic/assets/11132290/8231d86c-1406-4295-801f-477d643ad254
+
 ## Screenshots
-<img src="screenshots/comicScreenShot.png"/>
-<img src="screenshots/comicTextExpandedSC.png"/>
 <img src="screenshots/codeStructure.png"/>
 <img src="screenshots/testCasesAndDependencies.png"/>
+
